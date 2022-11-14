@@ -13,5 +13,6 @@ public class Test {
     public static void main(String[] args){
         Emp emp = new Emp(10,"Name",3);
         EmployeeTable.insertEmployee(emp);
+	//fuck you bitch
     }
 }
